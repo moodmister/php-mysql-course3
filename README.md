@@ -17,7 +17,7 @@ Windows:
 Linux:
 Копирайте командата във вашия терминал:
 ```
-git clone https://github.com/moodmister/php-mysql-course3 && \
+git clone https://github.com/moodmister/php-mysql-course3.git && \
 cd php-mysql-course3 && \
 php -S localhost:8080
 ```
